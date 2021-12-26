@@ -1,6 +1,6 @@
 # ReactTS 17 with Chakra UI and Vite
 
-This is a [React](https://reactjs.org) + [TypeScript](https://www.typescriptlang.org/) + [Chakra UI](https://chakra-ui.com) boilerplate to be built with [Vite](https://vitejs.dev). It also includes [Husky](https://typicode.github.io/husk) and a pre-commit hook that runs `yarn link:fix`.
+This is a [React](https://reactjs.org) + [TypeScript](https://www.typescriptlang.org/) + [Chakra UI](https://chakra-ui.com) boilerplate to be built with [Vite](https://vitejs.dev). It also includes [Husky](https://typicode.github.io/husk) and a pre-commit hook that runs `yarn lint:fix`.
 
 ## What's inside?
 
@@ -22,13 +22,13 @@ This is a [React](https://reactjs.org) + [TypeScript](https://www.typescriptlang
 1. Create the project.
 
    ```bash
-   npx degit The24thDS/vite-reactts17-chakra-jest-husky my-app
+   git clone https://github.com/farhancdr/chakra-react-ts-vite.git
    ```
 
 2. Access the project directory.
 
    ```bash
-   cd my-app
+   cd chakra-react-ts-vite
    ```
 
 3. Initialize a git repository.
